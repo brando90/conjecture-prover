@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T14:35:43.138342+00:00",
-  "overall_state": "degraded",
-  "summary": "1 worker stale or out of credits",
+  "generated_at": "2026-06-04T14:58:48.685382+00:00",
+  "overall_state": "online",
+  "summary": "1 worker active (3 threads total)",
   "workers": [
     {
       "anon": "47c67b",
@@ -12,7 +12,7 @@
       "mode": "forever",
       "started": "2026-05-03T14:49:35.259543-07:00",
       "heartbeat": "2026-05-03T14:49:35.295977-07:00",
-      "age_seconds": 2738767.777578,
+      "age_seconds": 2740153.384922,
       "age_pretty": "31d ago",
       "credits_ok": true,
       "status": {},
@@ -27,7 +27,7 @@
       "mode": "forever",
       "started": "2026-05-02T18:09:37.744569-07:00",
       "heartbeat": "2026-05-02T18:09:37.744889-07:00",
-      "age_seconds": 2813165.328666,
+      "age_seconds": 2814550.93601,
       "age_pretty": "32d ago",
       "credits_ok": true,
       "status": {},
@@ -42,7 +42,7 @@
       "mode": "forever",
       "started": "2026-05-02T09:51:02.474351-07:00",
       "heartbeat": "2026-05-02T09:51:02.475074-07:00",
-      "age_seconds": 2843080.598481,
+      "age_seconds": 2844466.205825,
       "age_pretty": "32d ago",
       "credits_ok": true,
       "status": {},
@@ -57,7 +57,7 @@
       "mode": "forever",
       "started": "2026-05-04T07:26:55.662432-07:00",
       "heartbeat": "2026-05-04T07:26:55.663128-07:00",
-      "age_seconds": 2678927.410427,
+      "age_seconds": 2680313.017771,
       "age_pretty": "31d ago",
       "credits_ok": true,
       "status": {},
@@ -70,15 +70,15 @@
       "nickname": "",
       "workers": 3,
       "mode": "forever",
-      "started": "2026-06-04T06:57:47.791774-07:00",
-      "heartbeat": "2026-06-04T06:57:47.791801-07:00",
-      "age_seconds": 2275.281754,
-      "age_pretty": "37m ago",
+      "started": "2026-06-04T07:50:47.051821-07:00",
+      "heartbeat": "2026-06-04T07:50:47.051843-07:00",
+      "age_seconds": 481.629056,
+      "age_pretty": "8m ago",
       "credits_ok": true,
       "status": {
         "passed": 63
       },
-      "state": "degraded"
+      "state": "online"
     },
     {
       "anon": "0c74ef",
@@ -89,7 +89,7 @@
       "mode": "forever",
       "started": "2026-05-27T12:58:30.459452-07:00",
       "heartbeat": "2026-05-27T12:58:30.459494-07:00",
-      "age_seconds": 671832.614061,
+      "age_seconds": 673218.221405,
       "age_pretty": "7d ago",
       "credits_ok": true,
       "status": {
@@ -106,7 +106,7 @@
       "mode": "forever",
       "started": "2026-05-02T18:15:52.454234-07:00",
       "heartbeat": "2026-05-02T18:15:52.454234-07:00",
-      "age_seconds": 2812790.619321,
+      "age_seconds": 2814176.226665,
       "age_pretty": "32d ago",
       "credits_ok": true,
       "status": {},
