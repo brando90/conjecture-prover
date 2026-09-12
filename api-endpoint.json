@@ -1,5 +1,5 @@
 {
-  "submit_url": "https://alternatively-dance-significant-manual.trycloudflare.com/api/submit",
-  "health_url": "https://alternatively-dance-significant-manual.trycloudflare.com/healthz",
-  "updated_at": "2026-08-20T19:23:55Z"
+  "submit_url": "https://api.trycloudflare.com/api/submit",
+  "health_url": "https://api.trycloudflare.com/healthz",
+  "updated_at": "2026-09-12T17:14:08Z"
 }
