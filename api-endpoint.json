@@ -1,5 +1,5 @@
 {
-  "submit_url": "https://api.trycloudflare.com/api/submit",
-  "health_url": "https://api.trycloudflare.com/healthz",
-  "updated_at": "2026-09-12T17:14:08Z"
+  "submit_url": "https://holdings-purchases-advisor-cliff.trycloudflare.com/api/submit",
+  "health_url": "https://holdings-purchases-advisor-cliff.trycloudflare.com/healthz",
+  "updated_at": "2026-09-16T05:01:20Z"
 }
