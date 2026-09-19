@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T22:56:43.032331+00:00",
+  "generated_at": "2026-09-19T23:01:53.469835+00:00",
   "overall_state": "online",
   "summary": "1 worker active (3 threads total)",
   "workers": [
@@ -12,7 +12,7 @@
       "mode": "forever",
       "started": "2026-05-03T14:49:35.259543-07:00",
       "heartbeat": "2026-05-03T14:49:35.295977-07:00",
-      "age_seconds": 12013627.731677,
+      "age_seconds": 12013938.170162,
       "age_pretty": "139d ago",
       "credits_ok": true,
       "status": {},
@@ -27,7 +27,7 @@
       "mode": "forever",
       "started": "2026-05-02T18:09:37.744569-07:00",
       "heartbeat": "2026-05-02T18:09:37.744889-07:00",
-      "age_seconds": 12088025.282765,
+      "age_seconds": 12088335.72125,
       "age_pretty": "139d ago",
       "credits_ok": true,
       "status": {},
@@ -42,7 +42,7 @@
       "mode": "forever",
       "started": "2026-05-02T09:51:02.474351-07:00",
       "heartbeat": "2026-05-02T09:51:02.475074-07:00",
-      "age_seconds": 12117940.55258,
+      "age_seconds": 12118250.991065,
       "age_pretty": "140d ago",
       "credits_ok": true,
       "status": {},
@@ -57,7 +57,7 @@
       "mode": "forever",
       "started": "2026-09-12T00:10:07.740159-07:00",
       "heartbeat": "2026-09-12T00:10:07.740301-07:00",
-      "age_seconds": 661595.287353,
+      "age_seconds": 661905.725838,
       "age_pretty": "7d ago",
       "credits_ok": true,
       "status": {
@@ -75,7 +75,7 @@
       "mode": "forever",
       "started": "2026-05-04T07:26:55.662432-07:00",
       "heartbeat": "2026-05-04T07:26:55.663128-07:00",
-      "age_seconds": 11953787.364526,
+      "age_seconds": 11954097.803011,
       "age_pretty": "138d ago",
       "credits_ok": true,
       "status": {},
@@ -90,7 +90,7 @@
       "mode": "forever",
       "started": "2026-06-15T01:38:38.894442-07:00",
       "heartbeat": "2026-06-15T01:38:38.894492-07:00",
-      "age_seconds": 8345884.133162,
+      "age_seconds": 8346194.571647,
       "age_pretty": "96d ago",
       "credits_ok": true,
       "status": {
@@ -105,14 +105,15 @@
       "nickname": "",
       "workers": 3,
       "mode": "forever",
-      "started": "2026-09-19T15:56:40.016081-07:00",
-      "heartbeat": "2026-09-19T15:56:40.016136-07:00",
-      "age_seconds": 3.011518,
+      "started": "2026-09-19T16:01:50.452692-07:00",
+      "heartbeat": "2026-09-19T16:01:50.452711-07:00",
+      "age_seconds": 3.013428,
       "age_pretty": "3s ago",
       "credits_ok": true,
       "status": {
+        "claimed": 1,
         "passed": 63,
-        "queued": 2
+        "queued": 1
       },
       "state": "online"
     },
@@ -125,7 +126,7 @@
       "mode": "forever",
       "started": "2026-08-20T12:08:38.726374-07:00",
       "heartbeat": "2026-08-20T12:08:38.727600-07:00",
-      "age_seconds": 2605684.300054,
+      "age_seconds": 2605994.738539,
       "age_pretty": "30d ago",
       "credits_ok": true,
       "status": {
@@ -143,7 +144,7 @@
       "mode": "forever",
       "started": "2026-05-02T18:15:52.454234-07:00",
       "heartbeat": "2026-05-02T18:15:52.454234-07:00",
-      "age_seconds": 12087650.57342,
+      "age_seconds": 12087961.011905,
       "age_pretty": "139d ago",
       "credits_ok": true,
       "status": {},
