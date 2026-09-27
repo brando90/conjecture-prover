@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T12:19:59.953918+00:00",
-  "overall_state": "online",
-  "summary": "1 worker active (3 threads total)",
+  "generated_at": "2026-09-27T14:21:27.886025+00:00",
+  "overall_state": "offline",
+  "summary": "No active workers. Last heartbeat 1h ago. Submissions are queued; they will process when a worker comes online.",
   "workers": [
     {
       "anon": "47c67b",
@@ -12,7 +12,7 @@
       "mode": "forever",
       "started": "2026-05-03T14:49:35.259543-07:00",
       "heartbeat": "2026-05-03T14:49:35.295977-07:00",
-      "age_seconds": 12666624.649488,
+      "age_seconds": 12673912.58807,
       "age_pretty": "146d ago",
       "credits_ok": true,
       "status": {},
@@ -27,7 +27,7 @@
       "mode": "forever",
       "started": "2026-05-02T18:09:37.744569-07:00",
       "heartbeat": "2026-05-02T18:09:37.744889-07:00",
-      "age_seconds": 12741022.200576,
+      "age_seconds": 12748310.139158,
       "age_pretty": "147d ago",
       "credits_ok": true,
       "status": {},
@@ -42,7 +42,7 @@
       "mode": "forever",
       "started": "2026-05-02T09:51:02.474351-07:00",
       "heartbeat": "2026-05-02T09:51:02.475074-07:00",
-      "age_seconds": 12770937.470391,
+      "age_seconds": 12778225.408973,
       "age_pretty": "147d ago",
       "credits_ok": true,
       "status": {},
@@ -57,7 +57,7 @@
       "mode": "forever",
       "started": "2026-09-12T00:10:07.740159-07:00",
       "heartbeat": "2026-09-12T00:10:07.740301-07:00",
-      "age_seconds": 1314592.205164,
+      "age_seconds": 1321880.143746,
       "age_pretty": "15d ago",
       "credits_ok": true,
       "status": {
@@ -75,7 +75,7 @@
       "mode": "forever",
       "started": "2026-05-04T07:26:55.662432-07:00",
       "heartbeat": "2026-05-04T07:26:55.663128-07:00",
-      "age_seconds": 12606784.282337,
+      "age_seconds": 12614072.220919,
       "age_pretty": "145d ago",
       "credits_ok": true,
       "status": {},
@@ -90,7 +90,7 @@
       "mode": "forever",
       "started": "2026-06-15T01:38:38.894442-07:00",
       "heartbeat": "2026-06-15T01:38:38.894492-07:00",
-      "age_seconds": 8998881.050973,
+      "age_seconds": 9006168.989555,
       "age_pretty": "104d ago",
       "credits_ok": true,
       "status": {
@@ -105,17 +105,16 @@
       "nickname": "",
       "workers": 3,
       "mode": "forever",
-      "started": "2026-09-27T05:19:49.025094-07:00",
-      "heartbeat": "2026-09-27T05:19:49.025332-07:00",
-      "age_seconds": 10.920133,
-      "age_pretty": "10s ago",
+      "started": "2026-09-27T06:21:07.137961-07:00",
+      "heartbeat": "2026-09-27T06:21:07.138086-07:00",
+      "age_seconds": 3620.745961,
+      "age_pretty": "1h ago",
       "credits_ok": true,
       "status": {
-        "claimed": 1,
         "passed": 63,
-        "queued": 1
+        "queued": 2
       },
-      "state": "online"
+      "state": "offline"
     },
     {
       "anon": "4e7e11",
@@ -126,7 +125,7 @@
       "mode": "forever",
       "started": "2026-08-20T12:08:38.726374-07:00",
       "heartbeat": "2026-08-20T12:08:38.727600-07:00",
-      "age_seconds": 3258681.217865,
+      "age_seconds": 3265969.156447,
       "age_pretty": "37d ago",
       "credits_ok": true,
       "status": {
@@ -144,7 +143,7 @@
       "mode": "forever",
       "started": "2026-05-02T18:15:52.454234-07:00",
       "heartbeat": "2026-05-02T18:15:52.454234-07:00",
-      "age_seconds": 12740647.491231,
+      "age_seconds": 12747935.429813,
       "age_pretty": "147d ago",
       "credits_ok": true,
       "status": {},
